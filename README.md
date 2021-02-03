@@ -58,6 +58,7 @@ fetch('https://datasekolahapi.herokuapp.com/api/data/sd/jakarta')
 Hasil request contoh di atas :
 
 ![2](https://user-images.githubusercontent.com/78361430/106824843-4a34fe00-66b6-11eb-94ce-d53d3d8519bb.PNG)
+
 ---
 ### Mendapatkan data berdasarkan jenjang, provinsi dan kecamatan / kabupaten : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil/namaprovinsihurufkecil/namakecamatanhurufkecil
 
