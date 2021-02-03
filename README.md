@@ -11,7 +11,7 @@ Status : On Progress
 ## Dokumentasi
 
 ### Base URL : https://datasekolahapi.herokuapp.com/api/data
-> Saat ini baru tersedia data sekolah sd negeri di dua daerah provinsi jakarta, yaitu kepulauan seribu dan cilandak
+> Saat ini baru tersedia data sekolah sd negeri di dua daerah provinsi jakarta, yaitu kepulauan seribu, cilandak dan jagakarsa.
 ---
 
 ### Mendapatkan data berdasarkan jenjang : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil
