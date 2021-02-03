@@ -15,7 +15,7 @@ Status : On Progress
 ---
 
 ### Mendapatkan data berdasarkan daerah https://datasekolahapi.herokuapp.com/api/data/namadaerahhurufkecil
----
+
 
 ## Contoh Get data Javascript
 ```Javascript
