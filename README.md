@@ -24,7 +24,7 @@ Status : On Progress
 
 ### Data yang sudah ada saat ini : 
 
-| Jenjang  | Provinsi | Kecamatan \ Kabupaten |
+| Jenjang  | Provinsi | Kecamatan atau Kabupaten |
 | ----- | --- | --- | ---- |
 | SD   | Jakarta  | Kepulauan Seribu |
 | - | -  | Cilandak | 
