@@ -33,6 +33,9 @@ fetch('https://datasekolahapi.herokuapp.com/api/data/sd')
     .then(data => console.log(data))
     .catch(err => console.log(err));
 ```
+Hasil request contoh di atas :
+![1](https://user-images.githubusercontent.com/78361430/106824141-be6ea200-66b4-11eb-8f32-bf44a09f05d2.PNG)
+
 ---
 ### Mendapatkan data berdasarkan jenjang dan provinsi : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil/namaprovinsihurufkecil
 
