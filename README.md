@@ -23,12 +23,22 @@ fetch('https://datasekolahapi.herokuapp.com/api/data/sd')
     .then(data => console.log(data))
     .catch(err => console.log(err));
 ```
-
-### Mendapatkan data berdasarkan jenjang dan daerah : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil/namadaerahhurufkecil
+---
+### Mendapatkan data berdasarkan jenjang dan provinsi : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil/namaprovinsihurufkecil
 
 ### Contoh mendapatkan semua data berdasarkan jenjang dan daerah
 ```Javascript
 fetch('https://datasekolahapi.herokuapp.com/api/data/sd/jakarta')
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(err => console.log(err));
+```
+---
+### Mendapatkan data berdasarkan jenjang, provinsi dan kecamatan / kabupaten : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil/namaprovinsihurufkecil/namakecamatanhurufkecil
+
+### Contoh mendapatkan semua data berdasarkan jenjang, provinsi dan kecamatan / kabupaten
+```Javascript
+fetch('https://datasekolahapi.herokuapp.com/api/data/sd/jakarta/cilandak')
     .then(response => response.json())
     .then(data => console.log(data))
     .catch(err => console.log(err));
