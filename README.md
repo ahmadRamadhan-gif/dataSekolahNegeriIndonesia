@@ -61,7 +61,7 @@ fetch('https://datasekolahapi.herokuapp.com/api/data')
     .then(data => console.log(data))
     .catch(err => console.error(err));
 ```
-> Untuk mencoba nya anda bisa menggunakan browser Microsoft Edge, Firefox dll.
+> Untuk mencoba nya anda bisa menggunakan browser Google Chrome, Microsoft Edge, Firefox dll.
 
 [npm-image]: https://img.shields.io/npm/v/express.svg
 [npm-url]: https://npmjs.org/package/express
