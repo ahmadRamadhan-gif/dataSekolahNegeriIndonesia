@@ -1,12 +1,18 @@
 # Data Sekolah Negeri Indonesia APi 
 ---
 
-Dibuat menggunakan :
+## Dibuat menggunakan :
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
+  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
 
----
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][downloads-image]][downloads-url]
+  [![Linux Build][travis-image]][travis-url]
+  [![Windows Build][appveyor-image]][appveyor-url]
+  [![Test Coverage][coveralls-image]][coveralls-url]
+
 ---
 ## Semua data saya ambil dari data referensi pendidikan [link](https://referensi.data.kemdikbud.go.id/)
 ---
