@@ -51,6 +51,6 @@ fetch('https://datasekolahapi.herokuapp.com/api/data')
     .then(data => console.log(data))
     .catch(err => console.error(err));
 ```
-> Untuk mencoba nya anda bisa menggunakan browser Microsoft Edge, Firefox dll, untuk google chrome saat ini masih kena cors.
+> Untuk mencoba nya anda bisa menggunakan browser Microsoft Edge, Firefox dll, untuk google chrome saat ini ada yang bisa dan ada kena cors.
 
 Terimakasihh.
