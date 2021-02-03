@@ -21,6 +21,6 @@ fetch('https://datasekolahapi.herokuapp.com/api/data')
     .then(data => console.log(data))
     .catch(err => console.error(err));
 ```
-> Saya sudah tes melalui browser Microsoft Edge dan tidak ada masalah, saat ini hanya ada masalah cors saja di browser chrome, saya akan perbaiki :)
+> Untuk mencoba nya anda bisa menggunakan browser Microsoft Edge, Firefox dll, untuk google chrome saat ini masih kena cors.
 
 Terimakasihh.
