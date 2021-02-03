@@ -21,7 +21,15 @@ Status : On Progress
 ## Dokumentasi
 
 ### Base URL : https://datasekolahapi.herokuapp.com/api/data
-> Saat ini baru tersedia data sekolah sd negeri di dua daerah provinsi jakarta, yaitu kepulauan seribu, cilandak dan jagakarsa.
+
+### Data yang sudah ada saat ini : 
+
+| Jenjang | Provinsi | Kecamatan / Kabupaten |
+| --- | --- | --- | --- |
+| SD | Jakarta | Kepulauan Seribu | 
+| | | Cilandak |
+| | | Jagakarsa | 
+| | | Kebayoran Baru |
 ---
 
 ### Mendapatkan data berdasarkan jenjang : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil
