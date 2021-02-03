@@ -16,8 +16,15 @@ Status : On Progress
 
 ### Mendapatkan data berdasarkan daerah https://datasekolahapi.herokuapp.com/api/data/namadaerahhurufkecil
 
-
-## Contoh Get data Javascript
+### Contoh mendapatkan semua data berdasarkan daerah
+```Javascript
+fetch('https://datasekolapi.herokuapp.com/api/data/jakarta')
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(err => console.log(err));
+```
+---
+## Contoh mendapatkan semua data di Javascript
 ```Javascript
 fetch('https://datasekolahapi.herokuapp.com/api/data')
     .then(response => response.json())
