@@ -29,9 +29,9 @@ Status : On Progress
 | Provinsi | Kecamatan atau Kabupaten |
 | --- | --- | 
 | Jakarta  | Kepulauan Seribu |
-| - | Cilandak |
-| - | Jagakarsa | 
-| -| Kebayoran Baru |
+| Jakarta | Cilandak |
+| Jakarta | Jagakarsa | 
+| Jakarta | Kebayoran Baru |
 
 ---
 
