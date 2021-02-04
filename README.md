@@ -33,6 +33,7 @@ Status : On Progress
 | Jakarta | Jagakarsa | 
 | Jakarta | Kebayoran Baru |
 | Jakarta | Kebayoran Lama |
+| Jakarta | Pasar Minggu |
 
 ---
 
