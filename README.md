@@ -24,12 +24,15 @@ Status : On Progress
 
 ### Data yang sudah ada saat ini : 
 
-| Jenjang  | Provinsi | Kecamatan atau Kabupaten |
-| ----- | --- | --- | 
-| SD   | Jakarta  | Kepulauan Seribu |
-       | - | Cilandak |
-       | - | Jagakarsa | 
-       | -| Kebayoran Baru |
+#### SD
+
+| Provinsi | Kecamatan atau Kabupaten |
+| --- | --- | 
+| Jakarta  | Kepulauan Seribu |
+| - | Cilandak |
+| - | Jagakarsa | 
+| -| Kebayoran Baru |
+
 ---
 
 ### Mendapatkan data berdasarkan jenjang : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil
