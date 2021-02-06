@@ -37,7 +37,7 @@ Status : On Progress
 | Jakarta | Pesanggrahan |
 | Jakarta | Setia Budi |
 | Jakarta | Tebet |
-
+| Jakarta | Jakarta Pusat |
 ---
 
 ### Mendapatkan data berdasarkan jenjang : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil
