@@ -39,6 +39,7 @@ Status : On Progress
 | Jakarta | Tebet |
 | Jakarta | Jakarta Pusat |
 | Jakarta | Pulo Gadung |
+| Jakarta | Cipayung |
 ---
 
 ### Mendapatkan data berdasarkan jenjang : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil
