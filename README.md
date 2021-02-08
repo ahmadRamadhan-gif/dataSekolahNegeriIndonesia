@@ -53,7 +53,7 @@ fetch('https://datasekolahapi.herokuapp.com/api/data/sd')
 ```
 Hasil request contoh di atas :
 
-![1](https://user-images.githubusercontent.com/78361430/106824141-be6ea200-66b4-11eb-8f32-bf44a09f05d2.PNG)
+![yes](https://user-images.githubusercontent.com/78361430/107293546-61049780-6a9e-11eb-9243-646713905f9e.PNG)
 
 ---
 ### Mendapatkan data berdasarkan jenjang dan provinsi : https://datasekolahapi.herokuapp.com/api/data/jenjanghurufkecil/namaprovinsihurufkecil
