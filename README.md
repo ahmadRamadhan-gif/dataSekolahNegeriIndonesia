@@ -16,7 +16,7 @@
 ---
 ## Semua data saya ambil dari data referensi pendidikan [link](https://referensi.data.kemdikbud.go.id/)
 ---
-Status : On Progress
+Status : Pending karena banyak kegiatan
 
 ## Dokumentasi
 
